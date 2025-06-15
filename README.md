@@ -13,3 +13,5 @@ and check if you have 'node.js'
 
 or you can see it here https://to-do-made-by-sulaimon.netlify.app/
 I don`t know why but you can use it
+
+This project was written in pure JavaScript using the Tailwind CSS framework.
